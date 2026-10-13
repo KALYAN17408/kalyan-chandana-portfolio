@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.*
+
+# Jupyter notebook scratch files
+*.ipynb
+.ipynb_checkpoints/
+
+# Node (if using npx serve locally)
+node_modules/
+
+# Netlify
+.netlify/
+
